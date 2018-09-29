@@ -1,7 +1,7 @@
-#### PIG DICE
-This application is called pig dice that accomodates 1 - 2 players.
+# PIG DICE
+This application is called pig dice that accomodates 1 - 2 players. 28 sep 2018
 ## By
-Francis Sakwa
+ ## Francis Sakwa
 
 ### Description
 * This application is called pig dice that accomodates 1 - 2 players.It has two sections both for 2 players and a single player.For the two players they register their names , set a winscore before starting the game.
@@ -10,9 +10,9 @@ Francis Sakwa
 #### Installation Requirements
 * You require to have your own pc
 * Open your browser and serach for FrancisSakwa89
-* Chose a pig-dice repository
+* Chose a pig-Dice-Game repository
 * Open your atom/visual studio code
-* git clone  the link and work on it if it's your preffered text editor.
+* git clone  the link  https://francissakwa89.github.io/Pig-Dice-Game-/ and work on it if it's your preffered text editor.
 #### BDD
 Players input                         | Expected output
 --------------------------------------|-----------------------------------------------------------------
