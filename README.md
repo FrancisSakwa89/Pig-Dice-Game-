@@ -32,7 +32,7 @@ First player to score 100 points      |  Becomes the winner
 * Bootstrap
 ## Support and contact details
 To reach us contact 0701112358, or email sakwafrancis89@gmail.com
-License
+## License
 ### MIT
 Copyright (c) 2018 Francis Sakwa
 
